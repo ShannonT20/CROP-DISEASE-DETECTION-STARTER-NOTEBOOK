@@ -1,0 +1,12 @@
+# Ignore Jupyter notebook files
+022-explore-dataset.ipynb
+023-multiclass-classification.ipynb
+
+# Ignore the crop pictures directory
+crop pictures/
+
+# Ignore temporary office files
+~$*
+
+# Ignore zip archives
+*.zip 
