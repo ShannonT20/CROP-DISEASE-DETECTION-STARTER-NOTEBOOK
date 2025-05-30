@@ -10,3 +10,7 @@ crop pictures/
 
 # Ignore zip archives
 *.zip 
+
+# Ignore Word files
+*.docx
+*.doc
