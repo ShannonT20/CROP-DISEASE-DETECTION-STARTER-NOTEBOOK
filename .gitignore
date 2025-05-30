@@ -18,3 +18,5 @@ crop pictures/
 # Ignore specific Word file
 DEEP LEARNING INDABA X ZIMBABWE HACKATHON.docx
 # End of Selection
+
+create_ground_truth_file.ipynb
