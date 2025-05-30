@@ -1,25 +1,8 @@
-# Start of Selection
-# Ignore Jupyter notebook files
 022-explore-dataset.ipynb
 023-multiclass-classification.ipynb
-image_renaming.ipynb
-
-# Ignore the crop pictures directory
-crop pictures/
-
-# Ignore temporary office files
-~$*
-
-# Ignore zip archives
-*.zip 
-
-# Ignore Word files
-*.docx
-*.doc
-*.csv
-# Ignore specific Word file
-DEEP LEARNING INDABA X ZIMBABWE HACKATHON.docx
-# End of Selection
-
+archive (3).zip
 create_ground_truth_file.ipynb
+data_spilits.ipynb
 ground_truth.csv
+image_renaming.ipynb
+crop pictures/
