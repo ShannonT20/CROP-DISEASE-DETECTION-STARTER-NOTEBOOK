@@ -1,3 +1,4 @@
+# Start of Selection
 # Ignore Jupyter notebook files
 022-explore-dataset.ipynb
 023-multiclass-classification.ipynb
@@ -14,3 +15,6 @@ crop pictures/
 # Ignore Word files
 *.docx
 *.doc
+# Ignore specific Word file
+DEEP LEARNING INDABA X ZIMBABWE HACKATHON.docx
+# End of Selection
