@@ -2,6 +2,7 @@
 # Ignore Jupyter notebook files
 022-explore-dataset.ipynb
 023-multiclass-classification.ipynb
+image_renaming.ipynb
 
 # Ignore the crop pictures directory
 crop pictures/
